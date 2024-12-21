@@ -50,8 +50,6 @@ void build_pyramid(int height)
             hashes2++;
         }
 
-        printf("  ");
-
         //Second loop of "#"
         while (hashes2 > 0)
         {
