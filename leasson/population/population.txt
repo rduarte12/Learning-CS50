@@ -1,7 +1,0 @@
-Quantos anos demora para uma população alcançar x de tamanho?
-
-Receber Input1 > 9 = pop inicial
-Receber input2 > input 2 = pop final
-taxa de crescimento ~= 1,083
-formar equação
-mostrar os anos que irão demorar
