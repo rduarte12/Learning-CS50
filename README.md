@@ -1,7 +1,6 @@
 # 📚 My CS50 Learning Journey  
 
-This repository documents my learning journey in [CS50: Introduction to Computer Science](https://cs50.harvard.edu/), 
-a computer science course offered by Harvard. Here, I share my exercises, projects, and notes.  
+This repository documents my learning journey in [CS50: Introduction to Computer Science](https://cs50.harvard.edu/), a computer science course offered by Harvard. Here, I share my exercises, projects, and notes.  
 
 ## 📌 Repository Structure  
 
@@ -33,5 +32,14 @@ This repository serves as a study journal to track my progress and help others w
 
 Feel free to reach out if you’d like to discuss or ask questions!  
 
+---
+
+## ⚖️ License & Credits  
+
+CS50 is a course offered by Harvard University. All course materials, lectures, and problem sets are the property of Harvard and follow their licensing terms.  
+
+All code and personal projects in this repository were created by me, [@rduart12](https://github.com/rduart12), and are licensed under my own terms. Feel free to use them for learning purposes.  
+
 ---  
+
 *This repository is part of my continuous learning in computer science. Feedback and suggestions are welcome!*  
