@@ -1,5 +1,3 @@
-Here's a README in English for the code you provided:
-
 # README - Population Growth Calculator
 
 ## Description
