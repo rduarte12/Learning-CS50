@@ -69,5 +69,5 @@ END PROGRAM
 
 ## Author
 
-Developed by Rafael Mendonça Duarte.
+Developed by [@rduarte12](https://github.com/rduarte12)
 
